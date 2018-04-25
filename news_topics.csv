@@ -1,0 +1,950 @@
+"","regio","medium2","medtype","onderwerp","n"
+"1","Landelijk","Algemeen Dagblad","lokaal","bestuur",85.5279934747427
+"2","Landelijk","Algemeen Dagblad","lokaal","campagne",50.0242927836204
+"3","Landelijk","Algemeen Dagblad","lokaal","criminaliteit",29.6056098101346
+"4","Landelijk","Algemeen Dagblad","lokaal","economie",35.7543125155703
+"5","Landelijk","Algemeen Dagblad","lokaal","kunst",20.9047105197857
+"6","Landelijk","Algemeen Dagblad","lokaal","minderheden",9.41665680071439
+"7","Landelijk","Algemeen Dagblad","lokaal","natuur",18.2059015021802
+"8","Landelijk","Algemeen Dagblad","lokaal","onderwijs",12.6041244703525
+"9","Landelijk","Algemeen Dagblad","lokaal","overig",53.1939462781315
+"10","Landelijk","Algemeen Dagblad","lokaal","uitgaan",9.13507550591674
+"11","Landelijk","Algemeen Dagblad","lokaal","verkeer",22.0374988935321
+"12","Landelijk","Algemeen Dagblad","lokaal","wonen",15.5046912603568
+"13","Landelijk","Algemeen Dagblad","lokaal","zorg",25.8024487466171
+"14","Landelijk","bnr.nl","lokaal","bestuur",20.5214431782541
+"15","Landelijk","bnr.nl","lokaal","campagne",19.0362066259018
+"16","Landelijk","bnr.nl","lokaal","criminaliteit",4.29235091557658
+"17","Landelijk","bnr.nl","lokaal","economie",10.5073042853534
+"18","Landelijk","bnr.nl","lokaal","kunst",4.46986508340894
+"19","Landelijk","bnr.nl","lokaal","minderheden",0.46132896131231
+"20","Landelijk","bnr.nl","lokaal","natuur",2.27455121611806
+"21","Landelijk","bnr.nl","lokaal","onderwijs",0.756869037131541
+"22","Landelijk","bnr.nl","lokaal","overig",10.2386276669741
+"23","Landelijk","bnr.nl","lokaal","uitgaan",1.71573310405301
+"24","Landelijk","bnr.nl","lokaal","verkeer",4.592244263385
+"25","Landelijk","bnr.nl","lokaal","wonen",4.56207992298136
+"26","Landelijk","bnr.nl","lokaal","zorg",1.98988695955528
+"27","Landelijk","De Telegraaf","lokaal","bestuur",148.445813747289
+"28","Landelijk","De Telegraaf","lokaal","campagne",107.764986531094
+"29","Landelijk","De Telegraaf","lokaal","criminaliteit",68.7528184461066
+"30","Landelijk","De Telegraaf","lokaal","economie",60.9277397501454
+"31","Landelijk","De Telegraaf","lokaal","kunst",40.7489104182726
+"32","Landelijk","De Telegraaf","lokaal","minderheden",10.1453829976581
+"33","Landelijk","De Telegraaf","lokaal","natuur",40.2466503102554
+"34","Landelijk","De Telegraaf","lokaal","onderwijs",15.7854278354044
+"35","Landelijk","De Telegraaf","lokaal","overig",108.865850755317
+"36","Landelijk","De Telegraaf","lokaal","uitgaan",38.6461377779481
+"37","Landelijk","De Telegraaf","lokaal","verkeer",57.5759749793574
+"38","Landelijk","De Telegraaf","lokaal","wonen",72.0170085945236
+"39","Landelijk","De Telegraaf","lokaal","zorg",38.9422253563515
+"40","Landelijk","De Volkskrant","lokaal","bestuur",121.303795146158
+"41","Landelijk","De Volkskrant","lokaal","campagne",73.9174665003547
+"42","Landelijk","De Volkskrant","lokaal","criminaliteit",40.291252229824
+"43","Landelijk","De Volkskrant","lokaal","economie",42.257128765734
+"44","Landelijk","De Volkskrant","lokaal","kunst",58.3740607473494
+"45","Landelijk","De Volkskrant","lokaal","minderheden",9.87605058983175
+"46","Landelijk","De Volkskrant","lokaal","natuur",26.835142352884
+"47","Landelijk","De Volkskrant","lokaal","onderwijs",11.2463279734191
+"48","Landelijk","De Volkskrant","lokaal","overig",88.1694340866766
+"49","Landelijk","De Volkskrant","lokaal","uitgaan",20.9277585446088
+"50","Landelijk","De Volkskrant","lokaal","verkeer",33.2809436208281
+"51","Landelijk","De Volkskrant","lokaal","wonen",28.4133403076264
+"52","Landelijk","De Volkskrant","lokaal","zorg",32.3908108424348
+"53","Landelijk","geenstijl.nl","lokaal","bestuur",7.31324236953159
+"54","Landelijk","geenstijl.nl","lokaal","campagne",12.855623190283
+"55","Landelijk","geenstijl.nl","lokaal","criminaliteit",6.50566018827409
+"56","Landelijk","geenstijl.nl","lokaal","economie",2.33067906730499
+"57","Landelijk","geenstijl.nl","lokaal","kunst",3.92164360247325
+"58","Landelijk","geenstijl.nl","lokaal","minderheden",4.01224308470215
+"59","Landelijk","geenstijl.nl","lokaal","natuur",1.8329161436552
+"60","Landelijk","geenstijl.nl","lokaal","onderwijs",1.03270402274965
+"61","Landelijk","geenstijl.nl","lokaal","overig",8.36296787269725
+"62","Landelijk","geenstijl.nl","lokaal","uitgaan",1.73011864245586
+"63","Landelijk","geenstijl.nl","lokaal","verkeer",4.03381150618207
+"64","Landelijk","geenstijl.nl","lokaal","wonen",2.80685924373086
+"65","Landelijk","geenstijl.nl","lokaal","zorg",0.822210236233067
+"66","Landelijk","hartvannederland.nl","lokaal","bestuur",20.1023421999458
+"67","Landelijk","hartvannederland.nl","lokaal","campagne",31.3942972611172
+"68","Landelijk","hartvannederland.nl","lokaal","criminaliteit",10.3120008334097
+"69","Landelijk","hartvannederland.nl","lokaal","economie",4.67337033194275
+"70","Landelijk","hartvannederland.nl","lokaal","kunst",5.26351576716127
+"71","Landelijk","hartvannederland.nl","lokaal","minderheden",4.38968891095396
+"72","Landelijk","hartvannederland.nl","lokaal","natuur",6.59315501110814
+"73","Landelijk","hartvannederland.nl","lokaal","onderwijs",2.58455845866825
+"74","Landelijk","hartvannederland.nl","lokaal","overig",9.97828436238057
+"75","Landelijk","hartvannederland.nl","lokaal","uitgaan",2.31460769816507
+"76","Landelijk","hartvannederland.nl","lokaal","verkeer",7.18363902129554
+"77","Landelijk","hartvannederland.nl","lokaal","wonen",5.57698488976602
+"78","Landelijk","hartvannederland.nl","lokaal","zorg",3.93763561201188
+"79","Landelijk","lindanieuws.nl","lokaal","bestuur",3.70511913286133
+"80","Landelijk","lindanieuws.nl","lokaal","campagne",8.18456803465237
+"81","Landelijk","lindanieuws.nl","lokaal","criminaliteit",2.6268310515098
+"82","Landelijk","lindanieuws.nl","lokaal","economie",1.89681535380714
+"83","Landelijk","lindanieuws.nl","lokaal","kunst",5.39632525526558
+"84","Landelijk","lindanieuws.nl","lokaal","minderheden",0.411030343090834
+"85","Landelijk","lindanieuws.nl","lokaal","natuur",1.09382589741056
+"86","Landelijk","lindanieuws.nl","lokaal","onderwijs",0.530862144873559
+"87","Landelijk","lindanieuws.nl","lokaal","overig",10.582602617881
+"88","Landelijk","lindanieuws.nl","lokaal","uitgaan",1.35367989466151
+"89","Landelijk","lindanieuws.nl","lokaal","verkeer",1.56195270345882
+"90","Landelijk","lindanieuws.nl","lokaal","wonen",1.20051665313897
+"91","Landelijk","lindanieuws.nl","lokaal","zorg",1.84864757923053
+"92","Landelijk","Metro","lokaal","bestuur",24.6979357545531
+"93","Landelijk","Metro","lokaal","campagne",21.0705359569852
+"94","Landelijk","Metro","lokaal","criminaliteit",6.33460209813694
+"95","Landelijk","Metro","lokaal","economie",7.65102878109322
+"96","Landelijk","Metro","lokaal","kunst",7.90800905532469
+"97","Landelijk","Metro","lokaal","minderheden",2.10543218748275
+"98","Landelijk","Metro","lokaal","natuur",3.91671482918433
+"99","Landelijk","Metro","lokaal","onderwijs",2.30472684072809
+"100","Landelijk","Metro","lokaal","overig",13.506554707604
+"101","Landelijk","Metro","lokaal","uitgaan",3.73385968618888
+"102","Landelijk","Metro","lokaal","verkeer",4.08057851559259
+"103","Landelijk","Metro","lokaal","wonen",5.99384470052271
+"104","Landelijk","Metro","lokaal","zorg",7.30775292234545
+"105","Landelijk","metronieuws.nl","lokaal","bestuur",6.5287426468832
+"106","Landelijk","metronieuws.nl","lokaal","campagne",9.14326140332187
+"107","Landelijk","metronieuws.nl","lokaal","criminaliteit",5.32104069394845
+"108","Landelijk","metronieuws.nl","lokaal","economie",4.79369956003562
+"109","Landelijk","metronieuws.nl","lokaal","kunst",6.82713111779316
+"110","Landelijk","metronieuws.nl","lokaal","minderheden",1.82038088577063
+"111","Landelijk","metronieuws.nl","lokaal","natuur",2.57713144066747
+"112","Landelijk","metronieuws.nl","lokaal","onderwijs",0.753837070436315
+"113","Landelijk","metronieuws.nl","lokaal","overig",12.3288892819184
+"114","Landelijk","metronieuws.nl","lokaal","uitgaan",2.07435034270121
+"115","Landelijk","metronieuws.nl","lokaal","verkeer",4.10267706753017
+"116","Landelijk","metronieuws.nl","lokaal","wonen",2.95200266959448
+"117","Landelijk","metronieuws.nl","lokaal","zorg",1.67049023305295
+"118","Landelijk","nos.nl","lokaal","bestuur",44.5511350431933
+"119","Landelijk","nos.nl","lokaal","campagne",62.3268630476851
+"120","Landelijk","nos.nl","lokaal","criminaliteit",19.4206808910652
+"121","Landelijk","nos.nl","lokaal","economie",21.7234490199489
+"122","Landelijk","nos.nl","lokaal","kunst",11.0813819502784
+"123","Landelijk","nos.nl","lokaal","minderheden",9.42585255584014
+"124","Landelijk","nos.nl","lokaal","natuur",8.25676193260589
+"125","Landelijk","nos.nl","lokaal","onderwijs",3.31652450937
+"126","Landelijk","nos.nl","lokaal","overig",47.0887558139475
+"127","Landelijk","nos.nl","lokaal","uitgaan",5.75937769510538
+"128","Landelijk","nos.nl","lokaal","verkeer",21.0030020942809
+"129","Landelijk","nos.nl","lokaal","wonen",15.7152871970847
+"130","Landelijk","nos.nl","lokaal","zorg",5.44887694988396
+"131","Landelijk","nporadio1.nl","lokaal","bestuur",8.75515574805627
+"132","Landelijk","nporadio1.nl","lokaal","campagne",14.8762906620207
+"133","Landelijk","nporadio1.nl","lokaal","criminaliteit",4.71377230657457
+"134","Landelijk","nporadio1.nl","lokaal","economie",3.87196445939868
+"135","Landelijk","nporadio1.nl","lokaal","kunst",5.17352913777203
+"136","Landelijk","nporadio1.nl","lokaal","minderheden",0.509909330731168
+"137","Landelijk","nporadio1.nl","lokaal","natuur",1.1698457993128
+"138","Landelijk","nporadio1.nl","lokaal","onderwijs",0.358148472927346
+"139","Landelijk","nporadio1.nl","lokaal","overig",10.5265133535709
+"140","Landelijk","nporadio1.nl","lokaal","uitgaan",1.31853619234596
+"141","Landelijk","nporadio1.nl","lokaal","verkeer",2.13406841923387
+"142","Landelijk","nporadio1.nl","lokaal","wonen",2.15778117208804
+"143","Landelijk","nporadio1.nl","lokaal","zorg",0.727777798496355
+"144","Landelijk","NRC Handelsblad","lokaal","bestuur",153.797590209972
+"145","Landelijk","NRC Handelsblad","lokaal","campagne",95.3217777504935
+"146","Landelijk","NRC Handelsblad","lokaal","criminaliteit",60.7967381148709
+"147","Landelijk","NRC Handelsblad","lokaal","economie",67.941810951036
+"148","Landelijk","NRC Handelsblad","lokaal","kunst",58.5990372435863
+"149","Landelijk","NRC Handelsblad","lokaal","minderheden",12.4852979760652
+"150","Landelijk","NRC Handelsblad","lokaal","natuur",37.5417518158882
+"151","Landelijk","NRC Handelsblad","lokaal","onderwijs",23.7381957854004
+"152","Landelijk","NRC Handelsblad","lokaal","overig",116.31086384037
+"153","Landelijk","NRC Handelsblad","lokaal","uitgaan",30.2673454798979
+"154","Landelijk","NRC Handelsblad","lokaal","verkeer",61.4562288981761
+"155","Landelijk","NRC Handelsblad","lokaal","wonen",42.755202246458
+"156","Landelijk","NRC Handelsblad","lokaal","zorg",42.2651130670176
+"157","Landelijk","nrc.nl","lokaal","bestuur",40.2123575867379
+"158","Landelijk","nrc.nl","lokaal","campagne",38.9323908947959
+"159","Landelijk","nrc.nl","lokaal","criminaliteit",18.8876399009298
+"160","Landelijk","nrc.nl","lokaal","economie",21.4309037256244
+"161","Landelijk","nrc.nl","lokaal","kunst",21.4597875698352
+"162","Landelijk","nrc.nl","lokaal","minderheden",3.81341682440142
+"163","Landelijk","nrc.nl","lokaal","natuur",11.9724971803135
+"164","Landelijk","nrc.nl","lokaal","onderwijs",7.11107418196885
+"165","Landelijk","nrc.nl","lokaal","overig",34.1229424186648
+"166","Landelijk","nrc.nl","lokaal","uitgaan",13.1656977151419
+"167","Landelijk","nrc.nl","lokaal","verkeer",17.4217177671665
+"168","Landelijk","nrc.nl","lokaal","wonen",11.7733238362129
+"169","Landelijk","nrc.nl","lokaal","zorg",10.2074209951269
+"170","Landelijk","nu.nl","lokaal","bestuur",29.851859712405
+"171","Landelijk","nu.nl","lokaal","campagne",71.9720727106863
+"172","Landelijk","nu.nl","lokaal","criminaliteit",29.0733338293416
+"173","Landelijk","nu.nl","lokaal","economie",25.6264783678083
+"174","Landelijk","nu.nl","lokaal","kunst",12.9841509227183
+"175","Landelijk","nu.nl","lokaal","minderheden",4.02234368346118
+"176","Landelijk","nu.nl","lokaal","natuur",6.1115352900434
+"177","Landelijk","nu.nl","lokaal","onderwijs",2.2326204804702
+"178","Landelijk","nu.nl","lokaal","overig",47.9593902923671
+"179","Landelijk","nu.nl","lokaal","uitgaan",8.2200542334056
+"180","Landelijk","nu.nl","lokaal","verkeer",26.3556450929902
+"181","Landelijk","nu.nl","lokaal","wonen",19.5086399260219
+"182","Landelijk","nu.nl","lokaal","zorg",3.38062196830306
+"183","Landelijk","rtlnieuws.nl","lokaal","bestuur",14.2607147717629
+"184","Landelijk","rtlnieuws.nl","lokaal","campagne",34.0416693982845
+"185","Landelijk","rtlnieuws.nl","lokaal","criminaliteit",12.7869246680604
+"186","Landelijk","rtlnieuws.nl","lokaal","economie",12.6301513863266
+"187","Landelijk","rtlnieuws.nl","lokaal","kunst",13.6671257801625
+"188","Landelijk","rtlnieuws.nl","lokaal","minderheden",5.93566990851917
+"189","Landelijk","rtlnieuws.nl","lokaal","natuur",2.99998515695078
+"190","Landelijk","rtlnieuws.nl","lokaal","onderwijs",2.50725623689895
+"191","Landelijk","rtlnieuws.nl","lokaal","overig",21.827139283043
+"192","Landelijk","rtlnieuws.nl","lokaal","uitgaan",6.49060484863597
+"193","Landelijk","rtlnieuws.nl","lokaal","verkeer",12.8369099475722
+"194","Landelijk","rtlnieuws.nl","lokaal","wonen",9.04401415334277
+"195","Landelijk","rtlnieuws.nl","lokaal","zorg",4.92205475975259
+"196","Landelijk","telegraaf.nl","lokaal","bestuur",49.9382672134354
+"197","Landelijk","telegraaf.nl","lokaal","campagne",84.4407014266841
+"198","Landelijk","telegraaf.nl","lokaal","criminaliteit",43.9857304712917
+"199","Landelijk","telegraaf.nl","lokaal","economie",81.961429415315
+"200","Landelijk","telegraaf.nl","lokaal","kunst",24.6235825986044
+"201","Landelijk","telegraaf.nl","lokaal","minderheden",15.0771009054611
+"202","Landelijk","telegraaf.nl","lokaal","natuur",14.9934670240154
+"203","Landelijk","telegraaf.nl","lokaal","onderwijs",4.91009574036581
+"204","Landelijk","telegraaf.nl","lokaal","overig",61.7650191695447
+"205","Landelijk","telegraaf.nl","lokaal","uitgaan",15.7930308128905
+"206","Landelijk","telegraaf.nl","lokaal","verkeer",34.2993851499857
+"207","Landelijk","telegraaf.nl","lokaal","wonen",26.7230351681466
+"208","Landelijk","telegraaf.nl","lokaal","zorg",7.79373012060504
+"209","Landelijk","Trouw","lokaal","bestuur",113.018920576852
+"210","Landelijk","Trouw","lokaal","campagne",72.5311929545841
+"211","Landelijk","Trouw","lokaal","criminaliteit",29.502236484226
+"212","Landelijk","Trouw","lokaal","economie",40.4428447684597
+"213","Landelijk","Trouw","lokaal","kunst",46.6095684669853
+"214","Landelijk","Trouw","lokaal","minderheden",9.69163101987961
+"215","Landelijk","Trouw","lokaal","natuur",34.3901965567357
+"216","Landelijk","Trouw","lokaal","onderwijs",16.7770410090433
+"217","Landelijk","Trouw","lokaal","overig",84.1997677202368
+"218","Landelijk","Trouw","lokaal","uitgaan",22.056233114224
+"219","Landelijk","Trouw","lokaal","verkeer",30.7884851991703
+"220","Landelijk","Trouw","lokaal","wonen",28.1281740684549
+"221","Landelijk","Trouw","lokaal","zorg",37.6496549776459
+"222","Landelijk","trouw.nl","lokaal","bestuur",32.456434405563
+"223","Landelijk","trouw.nl","lokaal","campagne",20.7883567485663
+"224","Landelijk","trouw.nl","lokaal","criminaliteit",7.54196046725675
+"225","Landelijk","trouw.nl","lokaal","economie",14.7871265179332
+"226","Landelijk","trouw.nl","lokaal","kunst",15.789258604758
+"227","Landelijk","trouw.nl","lokaal","minderheden",3.18596996587674
+"228","Landelijk","trouw.nl","lokaal","natuur",14.1486683804857
+"229","Landelijk","trouw.nl","lokaal","onderwijs",7.1100931781048
+"230","Landelijk","trouw.nl","lokaal","overig",27.8045799426414
+"231","Landelijk","trouw.nl","lokaal","uitgaan",4.97098954626742
+"232","Landelijk","trouw.nl","lokaal","verkeer",8.45009246082607
+"233","Landelijk","trouw.nl","lokaal","wonen",10.8434968332896
+"234","Landelijk","trouw.nl","lokaal","zorg",7.99093081877906
+"235","Landelijk","volkskrant.nl","lokaal","bestuur",40.9964249740046
+"236","Landelijk","volkskrant.nl","lokaal","campagne",59.3241352986715
+"237","Landelijk","volkskrant.nl","lokaal","criminaliteit",18.8045086461663
+"238","Landelijk","volkskrant.nl","lokaal","economie",24.0503617820509
+"239","Landelijk","volkskrant.nl","lokaal","kunst",20.1467700354391
+"240","Landelijk","volkskrant.nl","lokaal","minderheden",7.37616948063912
+"241","Landelijk","volkskrant.nl","lokaal","natuur",9.72044142621224
+"242","Landelijk","volkskrant.nl","lokaal","onderwijs",4.71985940803175
+"243","Landelijk","volkskrant.nl","lokaal","overig",30.7098673735389
+"244","Landelijk","volkskrant.nl","lokaal","uitgaan",9.36168962884778
+"245","Landelijk","volkskrant.nl","lokaal","verkeer",13.7177458457695
+"246","Landelijk","volkskrant.nl","lokaal","wonen",10.3847764242265
+"247","Landelijk","volkskrant.nl","lokaal","zorg",5.75848289523179
+"248","Bunschoten","ad.nl/amersfoort","lokaal","bestuur",73.1997543091757
+"249","Bunschoten","ad.nl/amersfoort","lokaal","campagne",81.222575394002
+"250","Bunschoten","ad.nl/amersfoort","lokaal","criminaliteit",215.454186414009
+"251","Bunschoten","ad.nl/amersfoort","lokaal","economie",62.8897546654662
+"252","Bunschoten","ad.nl/amersfoort","lokaal","kunst",76.3128290718596
+"253","Bunschoten","ad.nl/amersfoort","lokaal","minderheden",3.69267551382477
+"254","Bunschoten","ad.nl/amersfoort","lokaal","natuur",117.412298945484
+"255","Bunschoten","ad.nl/amersfoort","lokaal","onderwijs",29.5905056349299
+"256","Bunschoten","ad.nl/amersfoort","lokaal","overig",149.376950103141
+"257","Bunschoten","ad.nl/amersfoort","lokaal","uitgaan",102.910016302608
+"258","Bunschoten","ad.nl/amersfoort","lokaal","verkeer",189.30271814171
+"259","Bunschoten","ad.nl/amersfoort","lokaal","wonen",82.7086334866137
+"260","Bunschoten","ad.nl/amersfoort","lokaal","zorg",43.8786759620353
+"261","Bunschoten","AD/Amersfoortse Courant","regionaal","bestuur",148.338574447142
+"262","Bunschoten","AD/Amersfoortse Courant","regionaal","campagne",106.481471148889
+"263","Bunschoten","AD/Amersfoortse Courant","regionaal","criminaliteit",78.2822351798432
+"264","Bunschoten","AD/Amersfoortse Courant","regionaal","economie",60.6016693007616
+"265","Bunschoten","AD/Amersfoortse Courant","regionaal","kunst",74.8324755581686
+"266","Bunschoten","AD/Amersfoortse Courant","regionaal","minderheden",13.2360656420353
+"267","Bunschoten","AD/Amersfoortse Courant","regionaal","natuur",64.8222859152322
+"268","Bunschoten","AD/Amersfoortse Courant","regionaal","onderwijs",25.9647132937659
+"269","Bunschoten","AD/Amersfoortse Courant","regionaal","overig",282.257345591791
+"270","Bunschoten","AD/Amersfoortse Courant","regionaal","uitgaan",64.9009795304941
+"271","Bunschoten","AD/Amersfoortse Courant","regionaal","verkeer",44.2120396704551
+"272","Bunschoten","AD/Amersfoortse Courant","regionaal","wonen",52.0441448893394
+"273","Bunschoten","AD/Amersfoortse Courant","regionaal","zorg",46.3471924115814
+"274","Bunschoten","De Gooi- en Eemlander","regionaal","bestuur",229.380755680364
+"275","Bunschoten","De Gooi- en Eemlander","regionaal","campagne",142.189681266357
+"276","Bunschoten","De Gooi- en Eemlander","regionaal","criminaliteit",73.9825325460564
+"277","Bunschoten","De Gooi- en Eemlander","regionaal","economie",61.508123007823
+"278","Bunschoten","De Gooi- en Eemlander","regionaal","kunst",72.7724863839552
+"279","Bunschoten","De Gooi- en Eemlander","regionaal","minderheden",8.96540517273782
+"280","Bunschoten","De Gooi- en Eemlander","regionaal","natuur",82.2434774779412
+"281","Bunschoten","De Gooi- en Eemlander","regionaal","onderwijs",22.8017901813155
+"282","Bunschoten","De Gooi- en Eemlander","regionaal","overig",220.934617337666
+"283","Bunschoten","De Gooi- en Eemlander","regionaal","uitgaan",55.2496605258643
+"284","Bunschoten","De Gooi- en Eemlander","regionaal","verkeer",80.5121975519136
+"285","Bunschoten","De Gooi- en Eemlander","regionaal","wonen",94.0978868235597
+"286","Bunschoten","De Gooi- en Eemlander","regionaal","zorg",50.3844039132797
+"287","Bunschoten","debunschoter.nl","lokaal","bestuur",12.0273595356174
+"288","Bunschoten","debunschoter.nl","lokaal","campagne",9.40528125325424
+"289","Bunschoten","debunschoter.nl","lokaal","criminaliteit",11.406927114812
+"290","Bunschoten","debunschoter.nl","lokaal","economie",6.57705963348316
+"291","Bunschoten","debunschoter.nl","lokaal","kunst",7.78664375922257
+"292","Bunschoten","debunschoter.nl","lokaal","minderheden",0.202045285311138
+"293","Bunschoten","debunschoter.nl","lokaal","natuur",9.06453097247764
+"294","Bunschoten","debunschoter.nl","lokaal","onderwijs",3.7558803141044
+"295","Bunschoten","debunschoter.nl","lokaal","overig",34.5369918854453
+"296","Bunschoten","debunschoter.nl","lokaal","uitgaan",5.87389450097297
+"297","Bunschoten","debunschoter.nl","lokaal","verkeer",3.93024176931296
+"298","Bunschoten","debunschoter.nl","lokaal","wonen",5.1426159757654
+"299","Bunschoten","debunschoter.nl","lokaal","zorg",9.11046772696552
+"300","Bunschoten","gooieneemlander.nl","lokaal","bestuur",61.5494360175454
+"301","Bunschoten","gooieneemlander.nl","lokaal","campagne",28.4249946046108
+"302","Bunschoten","gooieneemlander.nl","lokaal","criminaliteit",80.3516669627486
+"303","Bunschoten","gooieneemlander.nl","lokaal","economie",25.8992590099579
+"304","Bunschoten","gooieneemlander.nl","lokaal","kunst",53.2338393296933
+"305","Bunschoten","gooieneemlander.nl","lokaal","minderheden",1.07660706377218
+"306","Bunschoten","gooieneemlander.nl","lokaal","natuur",42.2351872464834
+"307","Bunschoten","gooieneemlander.nl","lokaal","onderwijs",8.74871711125158
+"308","Bunschoten","gooieneemlander.nl","lokaal","overig",83.5434635739981
+"309","Bunschoten","gooieneemlander.nl","lokaal","uitgaan",28.3279188648886
+"310","Bunschoten","gooieneemlander.nl","lokaal","verkeer",60.4757870285345
+"311","Bunschoten","gooieneemlander.nl","lokaal","wonen",46.6388867879985
+"312","Bunschoten","gooieneemlander.nl","lokaal","zorg",21.8852415771301
+"313","Bunschoten","rtvbunschoten.nl","lokaal","bestuur",1.30619991135194
+"314","Bunschoten","rtvbunschoten.nl","lokaal","campagne",3.33036212628226
+"315","Bunschoten","rtvbunschoten.nl","lokaal","criminaliteit",0.846511115529759
+"316","Bunschoten","rtvbunschoten.nl","lokaal","economie",0.536740328009309
+"317","Bunschoten","rtvbunschoten.nl","lokaal","kunst",1.28549914596027
+"318","Bunschoten","rtvbunschoten.nl","lokaal","minderheden",0.105397975295425
+"319","Bunschoten","rtvbunschoten.nl","lokaal","natuur",1.89493461721632
+"320","Bunschoten","rtvbunschoten.nl","lokaal","onderwijs",0.461796096068972
+"321","Bunschoten","rtvbunschoten.nl","lokaal","overig",6.22969551289839
+"322","Bunschoten","rtvbunschoten.nl","lokaal","uitgaan",0.495535459075436
+"323","Bunschoten","rtvbunschoten.nl","lokaal","verkeer",0.445243671360479
+"324","Bunschoten","rtvbunschoten.nl","lokaal","wonen",2.58393873666838
+"325","Bunschoten","rtvbunschoten.nl","lokaal","zorg",0.250409595322711
+"326","Bunschoten","rtvutrecht.nl","lokaal","bestuur",68.5164125177367
+"327","Bunschoten","rtvutrecht.nl","lokaal","campagne",135.661898270137
+"328","Bunschoten","rtvutrecht.nl","lokaal","criminaliteit",44.7627505660246
+"329","Bunschoten","rtvutrecht.nl","lokaal","economie",20.1211274199922
+"330","Bunschoten","rtvutrecht.nl","lokaal","kunst",18.7100685865433
+"331","Bunschoten","rtvutrecht.nl","lokaal","minderheden",4.35945642440989
+"332","Bunschoten","rtvutrecht.nl","lokaal","natuur",39.6335763228754
+"333","Bunschoten","rtvutrecht.nl","lokaal","onderwijs",6.55811888806396
+"334","Bunschoten","rtvutrecht.nl","lokaal","overig",139.139391836467
+"335","Bunschoten","rtvutrecht.nl","lokaal","uitgaan",26.4577742996211
+"336","Bunschoten","rtvutrecht.nl","lokaal","verkeer",42.5701970555625
+"337","Bunschoten","rtvutrecht.nl","lokaal","wonen",32.2478054373501
+"338","Bunschoten","rtvutrecht.nl","lokaal","zorg",13.1787673442952
+"339","Rotterdam","ad.nl/rotterdam","lokaal","bestuur",145.664876536679
+"340","Rotterdam","ad.nl/rotterdam","lokaal","campagne",102.347132797526
+"341","Rotterdam","ad.nl/rotterdam","lokaal","criminaliteit",342.707427193991
+"342","Rotterdam","ad.nl/rotterdam","lokaal","economie",115.299336423215
+"343","Rotterdam","ad.nl/rotterdam","lokaal","kunst",163.728384372033
+"344","Rotterdam","ad.nl/rotterdam","lokaal","minderheden",15.5700831297016
+"345","Rotterdam","ad.nl/rotterdam","lokaal","natuur",88.6300375499113
+"346","Rotterdam","ad.nl/rotterdam","lokaal","onderwijs",42.8794885804083
+"347","Rotterdam","ad.nl/rotterdam","lokaal","overig",250.918837456959
+"348","Rotterdam","ad.nl/rotterdam","lokaal","uitgaan",70.9112868961106
+"349","Rotterdam","ad.nl/rotterdam","lokaal","verkeer",153.716018269468
+"350","Rotterdam","ad.nl/rotterdam","lokaal","wonen",100.241323902906
+"351","Rotterdam","ad.nl/rotterdam","lokaal","zorg",62.3388684200029
+"352","Rotterdam","AD/Rotterdams Dagblad","regionaal","bestuur",375.308909592356
+"353","Rotterdam","AD/Rotterdams Dagblad","regionaal","campagne",247.285302613086
+"354","Rotterdam","AD/Rotterdams Dagblad","regionaal","criminaliteit",266.040156659156
+"355","Rotterdam","AD/Rotterdams Dagblad","regionaal","economie",178.228172976308
+"356","Rotterdam","AD/Rotterdams Dagblad","regionaal","kunst",303.45223421679
+"357","Rotterdam","AD/Rotterdams Dagblad","regionaal","minderheden",28.7861979738133
+"358","Rotterdam","AD/Rotterdams Dagblad","regionaal","natuur",161.737371689177
+"359","Rotterdam","AD/Rotterdams Dagblad","regionaal","onderwijs",80.1108043461289
+"360","Rotterdam","AD/Rotterdams Dagblad","regionaal","overig",635.397047216349
+"361","Rotterdam","AD/Rotterdams Dagblad","regionaal","uitgaan",132.860284086648
+"362","Rotterdam","AD/Rotterdams Dagblad","regionaal","verkeer",194.802109729761
+"363","Rotterdam","AD/Rotterdams Dagblad","regionaal","wonen",208.656536448034
+"364","Rotterdam","AD/Rotterdams Dagblad","regionaal","zorg",110.601086796007
+"365","Rotterdam","dehavenloods.nl","lokaal","bestuur",24.9929098337249
+"366","Rotterdam","dehavenloods.nl","lokaal","campagne",15.3370388635023
+"367","Rotterdam","dehavenloods.nl","lokaal","criminaliteit",36.945328687839
+"368","Rotterdam","dehavenloods.nl","lokaal","economie",34.1036363698004
+"369","Rotterdam","dehavenloods.nl","lokaal","kunst",97.0997625968253
+"370","Rotterdam","dehavenloods.nl","lokaal","minderheden",1.02167370507953
+"371","Rotterdam","dehavenloods.nl","lokaal","natuur",28.3571836390237
+"372","Rotterdam","dehavenloods.nl","lokaal","onderwijs",23.6018906807034
+"373","Rotterdam","dehavenloods.nl","lokaal","overig",133.219853403329
+"374","Rotterdam","dehavenloods.nl","lokaal","uitgaan",51.3091252825772
+"375","Rotterdam","dehavenloods.nl","lokaal","verkeer",20.0805449740645
+"376","Rotterdam","dehavenloods.nl","lokaal","wonen",38.8546229556931
+"377","Rotterdam","dehavenloods.nl","lokaal","zorg",20.2771811972844
+"378","Rotterdam","openrotterdam.nl","lokaal","bestuur",18.406347971745
+"379","Rotterdam","openrotterdam.nl","lokaal","campagne",41.324056787721
+"380","Rotterdam","openrotterdam.nl","lokaal","criminaliteit",14.8243942200238
+"381","Rotterdam","openrotterdam.nl","lokaal","economie",13.7522775874895
+"382","Rotterdam","openrotterdam.nl","lokaal","kunst",42.0271989516329
+"383","Rotterdam","openrotterdam.nl","lokaal","minderheden",1.29960502003379
+"384","Rotterdam","openrotterdam.nl","lokaal","natuur",12.2024530050495
+"385","Rotterdam","openrotterdam.nl","lokaal","onderwijs",8.27048842190388
+"386","Rotterdam","openrotterdam.nl","lokaal","overig",44.1284372525948
+"387","Rotterdam","openrotterdam.nl","lokaal","uitgaan",20.2201492860019
+"388","Rotterdam","openrotterdam.nl","lokaal","verkeer",11.1815817406756
+"389","Rotterdam","openrotterdam.nl","lokaal","wonen",31.7812548845286
+"390","Rotterdam","openrotterdam.nl","lokaal","zorg",9.16793870874513
+"391","Rotterdam","rijnmond.nl","lokaal","bestuur",30.1388910735608
+"392","Rotterdam","rijnmond.nl","lokaal","campagne",71.7148984453911
+"393","Rotterdam","rijnmond.nl","lokaal","criminaliteit",13.8254756651196
+"394","Rotterdam","rijnmond.nl","lokaal","economie",8.83085191277641
+"395","Rotterdam","rijnmond.nl","lokaal","kunst",10.6492558230255
+"396","Rotterdam","rijnmond.nl","lokaal","minderheden",7.76143703687042
+"397","Rotterdam","rijnmond.nl","lokaal","natuur",8.21116208935575
+"398","Rotterdam","rijnmond.nl","lokaal","onderwijs",3.76026403782069
+"399","Rotterdam","rijnmond.nl","lokaal","overig",34.1720960860851
+"400","Rotterdam","rijnmond.nl","lokaal","uitgaan",24.8810537415078
+"401","Rotterdam","rijnmond.nl","lokaal","verkeer",13.6468129992619
+"402","Rotterdam","rijnmond.nl","lokaal","wonen",12.8219061265324
+"403","Rotterdam","rijnmond.nl","lokaal","zorg",8.68504712070983
+"404","Rotterdam","versbeton.nl","lokaal","bestuur",9.70863806108048
+"405","Rotterdam","versbeton.nl","lokaal","campagne",16.2235137625756
+"406","Rotterdam","versbeton.nl","lokaal","criminaliteit",2.37504795323477
+"407","Rotterdam","versbeton.nl","lokaal","economie",2.81443284927162
+"408","Rotterdam","versbeton.nl","lokaal","kunst",9.90420977088238
+"409","Rotterdam","versbeton.nl","lokaal","minderheden",0.606067380593302
+"410","Rotterdam","versbeton.nl","lokaal","natuur",3.49355780042763
+"411","Rotterdam","versbeton.nl","lokaal","onderwijs",1.73564377599579
+"412","Rotterdam","versbeton.nl","lokaal","overig",5.68269987042713
+"413","Rotterdam","versbeton.nl","lokaal","uitgaan",3.57878143341139
+"414","Rotterdam","versbeton.nl","lokaal","verkeer",2.81139582518263
+"415","Rotterdam","versbeton.nl","lokaal","wonen",11.2430108614215
+"416","Rotterdam","versbeton.nl","lokaal","zorg",4.03977086098279
+"417","Amsterdam","at5.nl","lokaal","bestuur",55.0842271088854
+"418","Amsterdam","at5.nl","lokaal","campagne",125.930381170995
+"419","Amsterdam","at5.nl","lokaal","criminaliteit",95.7894720517342
+"420","Amsterdam","at5.nl","lokaal","economie",33.7117398031407
+"421","Amsterdam","at5.nl","lokaal","kunst",34.7977407890176
+"422","Amsterdam","at5.nl","lokaal","minderheden",11.4033068755933
+"423","Amsterdam","at5.nl","lokaal","natuur",42.2245253267345
+"424","Amsterdam","at5.nl","lokaal","onderwijs",16.6020684743474
+"425","Amsterdam","at5.nl","lokaal","overig",72.1962865254657
+"426","Amsterdam","at5.nl","lokaal","uitgaan",23.0445009954404
+"427","Amsterdam","at5.nl","lokaal","verkeer",52.4379363320706
+"428","Amsterdam","at5.nl","lokaal","wonen",59.9450562427336
+"429","Amsterdam","at5.nl","lokaal","zorg",25.2648270934727
+"430","Amsterdam","echo.nl","lokaal","bestuur",16.4821607570908
+"431","Amsterdam","echo.nl","lokaal","campagne",21.0298131630425
+"432","Amsterdam","echo.nl","lokaal","criminaliteit",129.001738742994
+"433","Amsterdam","echo.nl","lokaal","economie",29.794400248551
+"434","Amsterdam","echo.nl","lokaal","kunst",42.642127295453
+"435","Amsterdam","echo.nl","lokaal","minderheden",2.2876056637319
+"436","Amsterdam","echo.nl","lokaal","natuur",20.3506665069319
+"437","Amsterdam","echo.nl","lokaal","onderwijs",5.81477224916764
+"438","Amsterdam","echo.nl","lokaal","overig",98.8887157788758
+"439","Amsterdam","echo.nl","lokaal","uitgaan",17.2334424450706
+"440","Amsterdam","echo.nl","lokaal","verkeer",37.1936851946464
+"441","Amsterdam","echo.nl","lokaal","wonen",36.5989110404008
+"442","Amsterdam","echo.nl","lokaal","zorg",11.3452612817633
+"443","Amsterdam","Het Parool","lokaal","bestuur",147.800365504359
+"444","Amsterdam","Het Parool","lokaal","campagne",104.115344298682
+"445","Amsterdam","Het Parool","lokaal","criminaliteit",112.3222279153
+"446","Amsterdam","Het Parool","lokaal","economie",102.934419640658
+"447","Amsterdam","Het Parool","lokaal","kunst",218.509302655187
+"448","Amsterdam","Het Parool","lokaal","minderheden",15.0038854608375
+"449","Amsterdam","Het Parool","lokaal","natuur",64.4417642937822
+"450","Amsterdam","Het Parool","lokaal","onderwijs",48.9204244167254
+"451","Amsterdam","Het Parool","lokaal","overig",285.158017152606
+"452","Amsterdam","Het Parool","lokaal","uitgaan",107.617880687497
+"453","Amsterdam","Het Parool","lokaal","verkeer",85.5281148445808
+"454","Amsterdam","Het Parool","lokaal","wonen",110.70030530679
+"455","Amsterdam","Het Parool","lokaal","zorg",64.2923873564853
+"456","Amsterdam","nhnieuws.nl","lokaal","bestuur",64.7415990404818
+"457","Amsterdam","nhnieuws.nl","lokaal","campagne",149.339896641108
+"458","Amsterdam","nhnieuws.nl","lokaal","criminaliteit",21.5903897190031
+"459","Amsterdam","nhnieuws.nl","lokaal","economie",12.7974953245088
+"460","Amsterdam","nhnieuws.nl","lokaal","kunst",11.8271609909441
+"461","Amsterdam","nhnieuws.nl","lokaal","minderheden",3.81518519891436
+"462","Amsterdam","nhnieuws.nl","lokaal","natuur",12.1588937066864
+"463","Amsterdam","nhnieuws.nl","lokaal","onderwijs",4.98021280074904
+"464","Amsterdam","nhnieuws.nl","lokaal","overig",69.6563445607205
+"465","Amsterdam","nhnieuws.nl","lokaal","uitgaan",9.42617502971102
+"466","Amsterdam","nhnieuws.nl","lokaal","verkeer",30.2683410929036
+"467","Amsterdam","nhnieuws.nl","lokaal","wonen",19.0329121204266
+"468","Amsterdam","nhnieuws.nl","lokaal","zorg",7.57858504378809
+"469","Amsterdam","parool.nl","lokaal","bestuur",176.042280394769
+"470","Amsterdam","parool.nl","lokaal","campagne",181.705033209489
+"471","Amsterdam","parool.nl","lokaal","criminaliteit",535.907654350039
+"472","Amsterdam","parool.nl","lokaal","economie",216.032141415312
+"473","Amsterdam","parool.nl","lokaal","kunst",231.068750345956
+"474","Amsterdam","parool.nl","lokaal","minderheden",20.2241258998009
+"475","Amsterdam","parool.nl","lokaal","natuur",165.504662857587
+"476","Amsterdam","parool.nl","lokaal","onderwijs",69.6965468500869
+"477","Amsterdam","parool.nl","lokaal","overig",365.948785300367
+"478","Amsterdam","parool.nl","lokaal","uitgaan",137.21452635431
+"479","Amsterdam","parool.nl","lokaal","verkeer",225.523756840888
+"480","Amsterdam","parool.nl","lokaal","wonen",184.121105932775
+"481","Amsterdam","parool.nl","lokaal","zorg",80.3341435881703
+"482","Smallingerland","Drachtster Courant","lokaal","bestuur",1.416569858486
+"483","Smallingerland","Drachtster Courant","lokaal","campagne",0.576072534512766
+"484","Smallingerland","Drachtster Courant","lokaal","criminaliteit",2.52817187882582
+"485","Smallingerland","Drachtster Courant","lokaal","economie",1.90178866040071
+"486","Smallingerland","Drachtster Courant","lokaal","kunst",13.8441884025446
+"487","Smallingerland","Drachtster Courant","lokaal","minderheden",0.0602432744454438
+"488","Smallingerland","Drachtster Courant","lokaal","natuur",6.71859645614472
+"489","Smallingerland","Drachtster Courant","lokaal","onderwijs",3.61602334607959
+"490","Smallingerland","Drachtster Courant","lokaal","overig",12.9747168094455
+"491","Smallingerland","Drachtster Courant","lokaal","uitgaan",4.42190419918944
+"492","Smallingerland","Drachtster Courant","lokaal","verkeer",3.36024541670282
+"493","Smallingerland","Drachtster Courant","lokaal","wonen",1.90455273173985
+"494","Smallingerland","Drachtster Courant","lokaal","zorg",3.87396141260803
+"495","Smallingerland","drachtstercourant.nl","lokaal","bestuur",12.4945620345367
+"496","Smallingerland","drachtstercourant.nl","lokaal","campagne",12.3573759640033
+"497","Smallingerland","drachtstercourant.nl","lokaal","criminaliteit",17.8342199181289
+"498","Smallingerland","drachtstercourant.nl","lokaal","economie",9.63199318473622
+"499","Smallingerland","drachtstercourant.nl","lokaal","kunst",56.0969728334373
+"500","Smallingerland","drachtstercourant.nl","lokaal","minderheden",0.592693617821149
+"501","Smallingerland","drachtstercourant.nl","lokaal","natuur",21.1201587545737
+"502","Smallingerland","drachtstercourant.nl","lokaal","onderwijs",22.5752543614722
+"503","Smallingerland","drachtstercourant.nl","lokaal","overig",118.162537313354
+"504","Smallingerland","drachtstercourant.nl","lokaal","uitgaan",29.4914240684169
+"505","Smallingerland","drachtstercourant.nl","lokaal","verkeer",33.7796822842887
+"506","Smallingerland","drachtstercourant.nl","lokaal","wonen",13.5776922136911
+"507","Smallingerland","drachtstercourant.nl","lokaal","zorg",13.9206496046572
+"508","Smallingerland","lc.nl","lokaal","bestuur",151.732088209941
+"509","Smallingerland","lc.nl","lokaal","campagne",102.787367574175
+"510","Smallingerland","lc.nl","lokaal","criminaliteit",49.1227366459337
+"511","Smallingerland","lc.nl","lokaal","economie",52.3165761692361
+"512","Smallingerland","lc.nl","lokaal","kunst",28.1905443030442
+"513","Smallingerland","lc.nl","lokaal","minderheden",17.7085693279589
+"514","Smallingerland","lc.nl","lokaal","natuur",34.790666970647
+"515","Smallingerland","lc.nl","lokaal","onderwijs",13.8161750272338
+"516","Smallingerland","lc.nl","lokaal","overig",103.084547016826
+"517","Smallingerland","lc.nl","lokaal","uitgaan",15.4402237386571
+"518","Smallingerland","lc.nl","lokaal","verkeer",85.0501258046554
+"519","Smallingerland","lc.nl","lokaal","wonen",23.3558844806749
+"520","Smallingerland","lc.nl","lokaal","zorg",27.0502365739848
+"521","Smallingerland","Leeuwarder Courant","regionaal","bestuur",283.198362884629
+"522","Smallingerland","Leeuwarder Courant","regionaal","campagne",164.586027552323
+"523","Smallingerland","Leeuwarder Courant","regionaal","criminaliteit",161.511592713597
+"524","Smallingerland","Leeuwarder Courant","regionaal","economie",174.155480148464
+"525","Smallingerland","Leeuwarder Courant","regionaal","kunst",207.339443376031
+"526","Smallingerland","Leeuwarder Courant","regionaal","minderheden",13.7058760497674
+"527","Smallingerland","Leeuwarder Courant","regionaal","natuur",121.311034444682
+"528","Smallingerland","Leeuwarder Courant","regionaal","onderwijs",48.3620771085102
+"529","Smallingerland","Leeuwarder Courant","regionaal","overig",573.227429444301
+"530","Smallingerland","Leeuwarder Courant","regionaal","uitgaan",115.258907729807
+"531","Smallingerland","Leeuwarder Courant","regionaal","verkeer",123.409464961615
+"532","Smallingerland","Leeuwarder Courant","regionaal","wonen",112.556218346529
+"533","Smallingerland","Leeuwarder Courant","regionaal","zorg",84.2789533463999
+"534","Smallingerland","omroepfriesland.nl","regionaal","bestuur",62.4588305837462
+"535","Smallingerland","omroepfriesland.nl","regionaal","campagne",47.0404293471537
+"536","Smallingerland","omroepfriesland.nl","regionaal","criminaliteit",154.753059626512
+"537","Smallingerland","omroepfriesland.nl","regionaal","economie",42.3288494120673
+"538","Smallingerland","omroepfriesland.nl","regionaal","kunst",55.6519975892094
+"539","Smallingerland","omroepfriesland.nl","regionaal","minderheden",4.46896006008452
+"540","Smallingerland","omroepfriesland.nl","regionaal","natuur",85.7337035997387
+"541","Smallingerland","omroepfriesland.nl","regionaal","onderwijs",20.8616052115904
+"542","Smallingerland","omroepfriesland.nl","regionaal","overig",324.214749154287
+"543","Smallingerland","omroepfriesland.nl","regionaal","uitgaan",37.7531828175175
+"544","Smallingerland","omroepfriesland.nl","regionaal","verkeer",101.848567044597
+"545","Smallingerland","omroepfriesland.nl","regionaal","wonen",33.9391577275245
+"546","Smallingerland","omroepfriesland.nl","regionaal","zorg",30.7011765225355
+"547","Smallingerland","waldnet.nl","lokaal","bestuur",16.8196514942767
+"548","Smallingerland","waldnet.nl","lokaal","campagne",15.2456453078117
+"549","Smallingerland","waldnet.nl","lokaal","criminaliteit",35.222820973685
+"550","Smallingerland","waldnet.nl","lokaal","economie",8.43029235569944
+"551","Smallingerland","waldnet.nl","lokaal","kunst",5.94609686956305
+"552","Smallingerland","waldnet.nl","lokaal","minderheden",0.978661579663941
+"553","Smallingerland","waldnet.nl","lokaal","natuur",10.6757017152076
+"554","Smallingerland","waldnet.nl","lokaal","onderwijs",3.75663614635449
+"555","Smallingerland","waldnet.nl","lokaal","overig",53.9043606377341
+"556","Smallingerland","waldnet.nl","lokaal","uitgaan",4.26266438793761
+"557","Smallingerland","waldnet.nl","lokaal","verkeer",48.4979398641946
+"558","Smallingerland","waldnet.nl","lokaal","wonen",7.54626131199841
+"559","Smallingerland","waldnet.nl","lokaal","zorg",5.75066762634738
+"560","Langedijk","langedijkcentraal.nl","lokaal","bestuur",15.2422934374807
+"561","Langedijk","langedijkcentraal.nl","lokaal","campagne",9.07223870591321
+"562","Langedijk","langedijkcentraal.nl","lokaal","criminaliteit",5.52357284799367
+"563","Langedijk","langedijkcentraal.nl","lokaal","economie",4.04543662672123
+"564","Langedijk","langedijkcentraal.nl","lokaal","kunst",3.96278859869657
+"565","Langedijk","langedijkcentraal.nl","lokaal","minderheden",0.0754501490300018
+"566","Langedijk","langedijkcentraal.nl","lokaal","natuur",9.83319438617908
+"567","Langedijk","langedijkcentraal.nl","lokaal","onderwijs",3.30182673860498
+"568","Langedijk","langedijkcentraal.nl","lokaal","overig",13.1532083755242
+"569","Langedijk","langedijkcentraal.nl","lokaal","uitgaan",2.61038464336565
+"570","Langedijk","langedijkcentraal.nl","lokaal","verkeer",9.95986372361325
+"571","Langedijk","langedijkcentraal.nl","lokaal","wonen",4.86072034444308
+"572","Langedijk","langedijkcentraal.nl","lokaal","zorg",2.00638003902213
+"573","Langedijk","Langedijker Nieuwsblad","lokaal","bestuur",23.944217583156
+"574","Langedijk","Langedijker Nieuwsblad","lokaal","campagne",20.1038136160208
+"575","Langedijk","Langedijker Nieuwsblad","lokaal","criminaliteit",13.6227569808961
+"576","Langedijk","Langedijker Nieuwsblad","lokaal","economie",20.1229021955571
+"577","Langedijk","Langedijker Nieuwsblad","lokaal","kunst",27.2503184017306
+"578","Langedijk","Langedijker Nieuwsblad","lokaal","minderheden",0.36418240651921
+"579","Langedijk","Langedijker Nieuwsblad","lokaal","natuur",25.402665964427
+"580","Langedijk","Langedijker Nieuwsblad","lokaal","onderwijs",8.7388598487529
+"581","Langedijk","Langedijker Nieuwsblad","lokaal","overig",90.4410528960959
+"582","Langedijk","Langedijker Nieuwsblad","lokaal","uitgaan",26.7555372012356
+"583","Langedijk","Langedijker Nieuwsblad","lokaal","verkeer",6.53040801305879
+"584","Langedijk","Langedijker Nieuwsblad","lokaal","wonen",15.689189412514
+"585","Langedijk","Langedijker Nieuwsblad","lokaal","zorg",18.9055532885813
+"586","Langedijk","langedijkerdagblad.nl","lokaal","bestuur",8.44966523175743
+"587","Langedijk","langedijkerdagblad.nl","lokaal","campagne",5.53437115088763
+"588","Langedijk","langedijkerdagblad.nl","lokaal","criminaliteit",5.38961283933909
+"589","Langedijk","langedijkerdagblad.nl","lokaal","economie",3.25043572805961
+"590","Langedijk","langedijkerdagblad.nl","lokaal","kunst",10.6636814524069
+"591","Langedijk","langedijkerdagblad.nl","lokaal","minderheden",0.0848633576976267
+"592","Langedijk","langedijkerdagblad.nl","lokaal","natuur",7.51804006107527
+"593","Langedijk","langedijkerdagblad.nl","lokaal","onderwijs",3.20737617798603
+"594","Langedijk","langedijkerdagblad.nl","lokaal","overig",41.3231395871907
+"595","Langedijk","langedijkerdagblad.nl","lokaal","uitgaan",9.26492629572058
+"596","Langedijk","langedijkerdagblad.nl","lokaal","verkeer",9.04914519314475
+"597","Langedijk","langedijkerdagblad.nl","lokaal","wonen",4.59688423134284
+"598","Langedijk","langedijkerdagblad.nl","lokaal","zorg",1.03792996965673
+"599","Langedijk","langedijkernieuwsblad.nl","lokaal","bestuur",8.32621707853879
+"600","Langedijk","langedijkernieuwsblad.nl","lokaal","campagne",6.48785433500726
+"601","Langedijk","langedijkernieuwsblad.nl","lokaal","criminaliteit",6.67867062217905
+"602","Langedijk","langedijkernieuwsblad.nl","lokaal","economie",6.85428561824358
+"603","Langedijk","langedijkernieuwsblad.nl","lokaal","kunst",21.2767082262037
+"604","Langedijk","langedijkernieuwsblad.nl","lokaal","minderheden",0.291792315170038
+"605","Langedijk","langedijkernieuwsblad.nl","lokaal","natuur",11.7308470134808
+"606","Langedijk","langedijkernieuwsblad.nl","lokaal","onderwijs",7.89649821598681
+"607","Langedijk","langedijkernieuwsblad.nl","lokaal","overig",163.992587783783
+"608","Langedijk","langedijkernieuwsblad.nl","lokaal","uitgaan",15.5577357826582
+"609","Langedijk","langedijkernieuwsblad.nl","lokaal","verkeer",3.77195358147652
+"610","Langedijk","langedijkernieuwsblad.nl","lokaal","wonen",7.68930008720136
+"611","Langedijk","langedijkernieuwsblad.nl","lokaal","zorg",8.40962487533838
+"612","Langedijk","Noordhollands Dagblad","regionaal","bestuur",527.526975946201
+"613","Langedijk","Noordhollands Dagblad","regionaal","campagne",419.719925657775
+"614","Langedijk","Noordhollands Dagblad","regionaal","criminaliteit",274.183880131871
+"615","Langedijk","Noordhollands Dagblad","regionaal","economie",304.52097393284
+"616","Langedijk","Noordhollands Dagblad","regionaal","kunst",349.173960179989
+"617","Langedijk","Noordhollands Dagblad","regionaal","minderheden",30.0667365125221
+"618","Langedijk","Noordhollands Dagblad","regionaal","natuur",259.484235692556
+"619","Langedijk","Noordhollands Dagblad","regionaal","onderwijs",86.4213866687205
+"620","Langedijk","Noordhollands Dagblad","regionaal","overig",973.49245412274
+"621","Langedijk","Noordhollands Dagblad","regionaal","uitgaan",218.962657897767
+"622","Langedijk","Noordhollands Dagblad","regionaal","verkeer",246.716182656893
+"623","Langedijk","Noordhollands Dagblad","regionaal","wonen",309.837592225831
+"624","Langedijk","Noordhollands Dagblad","regionaal","zorg",118.800747830213
+"625","Langedijk","noordhollandsdagblad.nl","lokaal","bestuur",83.2369985542578
+"626","Langedijk","noordhollandsdagblad.nl","lokaal","campagne",91.5939258347043
+"627","Langedijk","noordhollandsdagblad.nl","lokaal","criminaliteit",22.8566415081993
+"628","Langedijk","noordhollandsdagblad.nl","lokaal","economie",14.4825325191134
+"629","Langedijk","noordhollandsdagblad.nl","lokaal","kunst",15.6825340325897
+"630","Langedijk","noordhollandsdagblad.nl","lokaal","minderheden",4.27506819621835
+"631","Langedijk","noordhollandsdagblad.nl","lokaal","natuur",27.4440145734779
+"632","Langedijk","noordhollandsdagblad.nl","lokaal","onderwijs",8.51411792884575
+"633","Langedijk","noordhollandsdagblad.nl","lokaal","overig",55.2583124276705
+"634","Langedijk","noordhollandsdagblad.nl","lokaal","uitgaan",12.1159581631207
+"635","Langedijk","noordhollandsdagblad.nl","lokaal","verkeer",32.1466541974035
+"636","Langedijk","noordhollandsdagblad.nl","lokaal","wonen",21.6538292189047
+"637","Langedijk","noordhollandsdagblad.nl","lokaal","zorg",11.1828227274289
+"638","Enschede","De Twentsche Courant Tubantia","regionaal","bestuur",481.884967502244
+"639","Enschede","De Twentsche Courant Tubantia","regionaal","campagne",309.245553413598
+"640","Enschede","De Twentsche Courant Tubantia","regionaal","criminaliteit",200.124441986706
+"641","Enschede","De Twentsche Courant Tubantia","regionaal","economie",177.840552182935
+"642","Enschede","De Twentsche Courant Tubantia","regionaal","kunst",357.589775244548
+"643","Enschede","De Twentsche Courant Tubantia","regionaal","minderheden",27.1850929660099
+"644","Enschede","De Twentsche Courant Tubantia","regionaal","natuur",154.991502361402
+"645","Enschede","De Twentsche Courant Tubantia","regionaal","onderwijs",76.7113056629198
+"646","Enschede","De Twentsche Courant Tubantia","regionaal","overig",662.453222885877
+"647","Enschede","De Twentsche Courant Tubantia","regionaal","uitgaan",189.136695740472
+"648","Enschede","De Twentsche Courant Tubantia","regionaal","verkeer",157.766379269634
+"649","Enschede","De Twentsche Courant Tubantia","regionaal","wonen",221.726278815392
+"650","Enschede","De Twentsche Courant Tubantia","regionaal","zorg",121.624660636724
+"651","Enschede","fmenschede.nl","lokaal","bestuur",33.7356548641706
+"652","Enschede","fmenschede.nl","lokaal","campagne",52.7867694584445
+"653","Enschede","fmenschede.nl","lokaal","criminaliteit",36.9157967750038
+"654","Enschede","fmenschede.nl","lokaal","economie",23.4564090341178
+"655","Enschede","fmenschede.nl","lokaal","kunst",88.1700600426486
+"656","Enschede","fmenschede.nl","lokaal","minderheden",3.42389221262488
+"657","Enschede","fmenschede.nl","lokaal","natuur",14.9011598046884
+"658","Enschede","fmenschede.nl","lokaal","onderwijs",9.77781631187736
+"659","Enschede","fmenschede.nl","lokaal","overig",119.960301935735
+"660","Enschede","fmenschede.nl","lokaal","uitgaan",16.272989588633
+"661","Enschede","fmenschede.nl","lokaal","verkeer",22.032758223382
+"662","Enschede","fmenschede.nl","lokaal","wonen",15.4906448638583
+"663","Enschede","fmenschede.nl","lokaal","zorg",9.7715980851908
+"664","Enschede","huisaanhuisenschede.nl","lokaal","bestuur",7.80561042790431
+"665","Enschede","huisaanhuisenschede.nl","lokaal","campagne",4.30737772614159
+"666","Enschede","huisaanhuisenschede.nl","lokaal","criminaliteit",5.88715252562769
+"667","Enschede","huisaanhuisenschede.nl","lokaal","economie",8.36464971114555
+"668","Enschede","huisaanhuisenschede.nl","lokaal","kunst",26.5379240750592
+"669","Enschede","huisaanhuisenschede.nl","lokaal","minderheden",0.374586041448707
+"670","Enschede","huisaanhuisenschede.nl","lokaal","natuur",10.9555571658746
+"671","Enschede","huisaanhuisenschede.nl","lokaal","onderwijs",7.58357072985715
+"672","Enschede","huisaanhuisenschede.nl","lokaal","overig",51.8521985724278
+"673","Enschede","huisaanhuisenschede.nl","lokaal","uitgaan",9.55710955862893
+"674","Enschede","huisaanhuisenschede.nl","lokaal","verkeer",4.18262256614303
+"675","Enschede","huisaanhuisenschede.nl","lokaal","wonen",7.20915999049097
+"676","Enschede","huisaanhuisenschede.nl","lokaal","zorg",7.48544587305931
+"677","Enschede","indebuurtenschede.nl","lokaal","bestuur",5.27165920281928
+"678","Enschede","indebuurtenschede.nl","lokaal","campagne",8.66186921609772
+"679","Enschede","indebuurtenschede.nl","lokaal","criminaliteit",9.07167653666831
+"680","Enschede","indebuurtenschede.nl","lokaal","economie",21.7911550514769
+"681","Enschede","indebuurtenschede.nl","lokaal","kunst",53.5200364799696
+"682","Enschede","indebuurtenschede.nl","lokaal","minderheden",0.198628492973435
+"683","Enschede","indebuurtenschede.nl","lokaal","natuur",7.38118007593936
+"684","Enschede","indebuurtenschede.nl","lokaal","onderwijs",3.98709818557869
+"685","Enschede","indebuurtenschede.nl","lokaal","overig",40.7545331989092
+"686","Enschede","indebuurtenschede.nl","lokaal","uitgaan",7.65944669590168
+"687","Enschede","indebuurtenschede.nl","lokaal","verkeer",4.90276281479919
+"688","Enschede","indebuurtenschede.nl","lokaal","wonen",20.8788985261575
+"689","Enschede","indebuurtenschede.nl","lokaal","zorg",4.62173243118765
+"690","Enschede","rtvoost.nl","lokaal","bestuur",71.8084894458342
+"691","Enschede","rtvoost.nl","lokaal","campagne",79.458307725827
+"692","Enschede","rtvoost.nl","lokaal","criminaliteit",88.0762241876521
+"693","Enschede","rtvoost.nl","lokaal","economie",31.4607875218177
+"694","Enschede","rtvoost.nl","lokaal","kunst",51.4821436994786
+"695","Enschede","rtvoost.nl","lokaal","minderheden",6.11333421343856
+"696","Enschede","rtvoost.nl","lokaal","natuur",38.5574230317147
+"697","Enschede","rtvoost.nl","lokaal","onderwijs",10.4566911055608
+"698","Enschede","rtvoost.nl","lokaal","overig",137.914646922465
+"699","Enschede","rtvoost.nl","lokaal","uitgaan",23.6791882889983
+"700","Enschede","rtvoost.nl","lokaal","verkeer",71.2831535673254
+"701","Enschede","rtvoost.nl","lokaal","wonen",25.2897332862448
+"702","Enschede","rtvoost.nl","lokaal","zorg",16.3279345946941
+"703","Enschede","tubantia.nl","lokaal","bestuur",152.60058608588
+"704","Enschede","tubantia.nl","lokaal","campagne",108.885242414819
+"705","Enschede","tubantia.nl","lokaal","criminaliteit",147.936243026191
+"706","Enschede","tubantia.nl","lokaal","economie",88.7899202863238
+"707","Enschede","tubantia.nl","lokaal","kunst",157.523339253874
+"708","Enschede","tubantia.nl","lokaal","minderheden",17.4078357892407
+"709","Enschede","tubantia.nl","lokaal","natuur",50.6606298114691
+"710","Enschede","tubantia.nl","lokaal","onderwijs",25.1665714087112
+"711","Enschede","tubantia.nl","lokaal","overig",408.856773275718
+"712","Enschede","tubantia.nl","lokaal","uitgaan",46.1858889572455
+"713","Enschede","tubantia.nl","lokaal","verkeer",94.7744557648979
+"714","Enschede","tubantia.nl","lokaal","wonen",38.7909316036236
+"715","Enschede","tubantia.nl","lokaal","zorg",42.3152069482634
+"716","Roermond","1limburg.nl","lokaal","bestuur",70.2616337557237
+"717","Roermond","1limburg.nl","lokaal","campagne",85.0543008724496
+"718","Roermond","1limburg.nl","lokaal","criminaliteit",98.7648215938418
+"719","Roermond","1limburg.nl","lokaal","economie",30.272752945607
+"720","Roermond","1limburg.nl","lokaal","kunst",24.9894776586712
+"721","Roermond","1limburg.nl","lokaal","minderheden",6.57591396233534
+"722","Roermond","1limburg.nl","lokaal","natuur",29.1074828229073
+"723","Roermond","1limburg.nl","lokaal","onderwijs",8.2484384836891
+"724","Roermond","1limburg.nl","lokaal","overig",80.531073730039
+"725","Roermond","1limburg.nl","lokaal","uitgaan",14.4479990845035
+"726","Roermond","1limburg.nl","lokaal","verkeer",100.714543428292
+"727","Roermond","1limburg.nl","lokaal","wonen",18.0224068830442
+"728","Roermond","1limburg.nl","lokaal","zorg",13.2748821566019
+"729","Roermond","Dagblad de Limburger","regionaal","bestuur",397.022267887756
+"730","Roermond","Dagblad de Limburger","regionaal","campagne",255.921076601005
+"731","Roermond","Dagblad de Limburger","regionaal","criminaliteit",253.137378628785
+"732","Roermond","Dagblad de Limburger","regionaal","economie",178.146108205999
+"733","Roermond","Dagblad de Limburger","regionaal","kunst",219.251874022081
+"734","Roermond","Dagblad de Limburger","regionaal","minderheden",21.0802722267504
+"735","Roermond","Dagblad de Limburger","regionaal","natuur",146.439248808131
+"736","Roermond","Dagblad de Limburger","regionaal","onderwijs",48.4356558251316
+"737","Roermond","Dagblad de Limburger","regionaal","overig",660.604764111253
+"738","Roermond","Dagblad de Limburger","regionaal","uitgaan",148.498982582669
+"739","Roermond","Dagblad de Limburger","regionaal","verkeer",170.293190096333
+"740","Roermond","Dagblad de Limburger","regionaal","wonen",160.371602603437
+"741","Roermond","Dagblad de Limburger","regionaal","zorg",98.1187916993252
+"742","Roermond","l1.nl","lokaal","bestuur",10.1505365838214
+"743","Roermond","l1.nl","lokaal","campagne",31.6390916354245
+"744","Roermond","l1.nl","lokaal","criminaliteit",8.33765245776665
+"745","Roermond","l1.nl","lokaal","economie",1.86145083346333
+"746","Roermond","l1.nl","lokaal","kunst",11.1512537184458
+"747","Roermond","l1.nl","lokaal","minderheden",2.18129041005452
+"748","Roermond","l1.nl","lokaal","natuur",2.63457474087963
+"749","Roermond","l1.nl","lokaal","onderwijs",1.21687168197042
+"750","Roermond","l1.nl","lokaal","overig",23.9446582473059
+"751","Roermond","l1.nl","lokaal","uitgaan",2.8723243213222
+"752","Roermond","l1.nl","lokaal","verkeer",3.6084421293285
+"753","Roermond","l1.nl","lokaal","wonen",2.16825568312323
+"754","Roermond","l1.nl","lokaal","zorg",3.01667937169894
+"755","Roermond","limburger.nl","lokaal","bestuur",72.8728574433156
+"756","Roermond","limburger.nl","lokaal","campagne",62.9528626633895
+"757","Roermond","limburger.nl","lokaal","criminaliteit",60.0040389484386
+"758","Roermond","limburger.nl","lokaal","economie",23.6961826833248
+"759","Roermond","limburger.nl","lokaal","kunst",31.8383564721096
+"760","Roermond","limburger.nl","lokaal","minderheden",9.93731199642001
+"761","Roermond","limburger.nl","lokaal","natuur",21.2208595727459
+"762","Roermond","limburger.nl","lokaal","onderwijs",9.96515633067231
+"763","Roermond","limburger.nl","lokaal","overig",75.6449012531937
+"764","Roermond","limburger.nl","lokaal","uitgaan",20.1934499603861
+"765","Roermond","limburger.nl","lokaal","verkeer",41.8131760840021
+"766","Roermond","limburger.nl","lokaal","wonen",16.445532294896
+"767","Roermond","limburger.nl","lokaal","zorg",14.0770722852345
+"768","Roermond","rtvroermond.nl","lokaal","bestuur",8.13662543714652
+"769","Roermond","rtvroermond.nl","lokaal","campagne",9.32736299502349
+"770","Roermond","rtvroermond.nl","lokaal","criminaliteit",6.99910375780285
+"771","Roermond","rtvroermond.nl","lokaal","economie",4.06199775173362
+"772","Roermond","rtvroermond.nl","lokaal","kunst",16.2461846495409
+"773","Roermond","rtvroermond.nl","lokaal","minderheden",0.35521159792682
+"774","Roermond","rtvroermond.nl","lokaal","natuur",11.20583541436
+"775","Roermond","rtvroermond.nl","lokaal","onderwijs",5.82668718903567
+"776","Roermond","rtvroermond.nl","lokaal","overig",70.3877536326079
+"777","Roermond","rtvroermond.nl","lokaal","uitgaan",7.62443389970504
+"778","Roermond","rtvroermond.nl","lokaal","verkeer",6.146879542352
+"779","Roermond","rtvroermond.nl","lokaal","wonen",6.57390819873318
+"780","Roermond","rtvroermond.nl","lokaal","zorg",8.41820965225443
+"781","Roermond","VIA Roermond","lokaal","bestuur",2.34542446358922
+"782","Roermond","VIA Roermond","lokaal","campagne",4.56188048622771
+"783","Roermond","VIA Roermond","lokaal","criminaliteit",1.99561136665272
+"784","Roermond","VIA Roermond","lokaal","economie",1.32196292363938
+"785","Roermond","VIA Roermond","lokaal","kunst",3.37748654960802
+"786","Roermond","VIA Roermond","lokaal","minderheden",0.0827230537035004
+"787","Roermond","VIA Roermond","lokaal","natuur",3.96812089079342
+"788","Roermond","VIA Roermond","lokaal","onderwijs",0.955778659838353
+"789","Roermond","VIA Roermond","lokaal","overig",12.0702493618538
+"790","Roermond","VIA Roermond","lokaal","uitgaan",2.16688230155464
+"791","Roermond","VIA Roermond","lokaal","verkeer",1.2606953624934
+"792","Roermond","VIA Roermond","lokaal","wonen",1.67185528511106
+"793","Roermond","VIA Roermond","lokaal","zorg",3.36964794084869
+"794","Almere","1almere.nl","lokaal","bestuur",13.8647687875467
+"795","Almere","1almere.nl","lokaal","campagne",20.7414363167624
+"796","Almere","1almere.nl","lokaal","criminaliteit",18.2636829950605
+"797","Almere","1almere.nl","lokaal","economie",6.63463644864158
+"798","Almere","1almere.nl","lokaal","kunst",13.1380509109841
+"799","Almere","1almere.nl","lokaal","minderheden",2.40209305134901
+"800","Almere","1almere.nl","lokaal","natuur",11.1436939026835
+"801","Almere","1almere.nl","lokaal","onderwijs",5.75880648442795
+"802","Almere","1almere.nl","lokaal","overig",99.7802379987871
+"803","Almere","1almere.nl","lokaal","uitgaan",6.21155430004631
+"804","Almere","1almere.nl","lokaal","verkeer",12.7539229931896
+"805","Almere","1almere.nl","lokaal","wonen",7.06463371463868
+"806","Almere","1almere.nl","lokaal","zorg",6.19526405271038
+"807","Almere","Almere Deze Week","lokaal","bestuur",45.0887522022422
+"808","Almere","Almere Deze Week","lokaal","campagne",36.1484812232132
+"809","Almere","Almere Deze Week","lokaal","criminaliteit",30.9794713009585
+"810","Almere","Almere Deze Week","lokaal","economie",50.1015774106731
+"811","Almere","Almere Deze Week","lokaal","kunst",84.5125547578738
+"812","Almere","Almere Deze Week","lokaal","minderheden",3.0075323192141
+"813","Almere","Almere Deze Week","lokaal","natuur",55.8974752347125
+"814","Almere","Almere Deze Week","lokaal","onderwijs",25.8582950296337
+"815","Almere","Almere Deze Week","lokaal","overig",150.604185242284
+"816","Almere","Almere Deze Week","lokaal","uitgaan",42.7696487711029
+"817","Almere","Almere Deze Week","lokaal","verkeer",31.4807477724752
+"818","Almere","Almere Deze Week","lokaal","wonen",44.1960789262714
+"819","Almere","Almere Deze Week","lokaal","zorg",38.9164394062164
+"820","Almere","almeredezeweek.nl","lokaal","bestuur",40.635571985756
+"821","Almere","almeredezeweek.nl","lokaal","campagne",42.394328405879
+"822","Almere","almeredezeweek.nl","lokaal","criminaliteit",29.9514214914204
+"823","Almere","almeredezeweek.nl","lokaal","economie",22.3837843000052
+"824","Almere","almeredezeweek.nl","lokaal","kunst",58.3813268128923
+"825","Almere","almeredezeweek.nl","lokaal","minderheden",4.96916233735696
+"826","Almere","almeredezeweek.nl","lokaal","natuur",39.3431419356869
+"827","Almere","almeredezeweek.nl","lokaal","onderwijs",18.367726466045
+"828","Almere","almeredezeweek.nl","lokaal","overig",109.113356458649
+"829","Almere","almeredezeweek.nl","lokaal","uitgaan",26.9693093101103
+"830","Almere","almeredezeweek.nl","lokaal","verkeer",24.0433410555766
+"831","Almere","almeredezeweek.nl","lokaal","wonen",34.4297069182576
+"832","Almere","almeredezeweek.nl","lokaal","zorg",23.694606623319
+"833","Almere","omroepalmere.nl","lokaal","bestuur",23.4369183129938
+"834","Almere","omroepalmere.nl","lokaal","campagne",29.4286201562364
+"835","Almere","omroepalmere.nl","lokaal","criminaliteit",23.6930229130704
+"836","Almere","omroepalmere.nl","lokaal","economie",21.7809032514617
+"837","Almere","omroepalmere.nl","lokaal","kunst",23.8945750247579
+"838","Almere","omroepalmere.nl","lokaal","minderheden",1.43198548913953
+"839","Almere","omroepalmere.nl","lokaal","natuur",17.9476026354834
+"840","Almere","omroepalmere.nl","lokaal","onderwijs",9.99383792945469
+"841","Almere","omroepalmere.nl","lokaal","overig",85.20237624364
+"842","Almere","omroepalmere.nl","lokaal","uitgaan",11.810378183547
+"843","Almere","omroepalmere.nl","lokaal","verkeer",24.137753107726
+"844","Almere","omroepalmere.nl","lokaal","wonen",15.1929870842753
+"845","Almere","omroepalmere.nl","lokaal","zorg",20.7621817981946
+"846","Almere","omroepflevoland.nl","lokaal","bestuur",51.9123616381761
+"847","Almere","omroepflevoland.nl","lokaal","campagne",93.0335778663879
+"848","Almere","omroepflevoland.nl","lokaal","criminaliteit",83.3214111033633
+"849","Almere","omroepflevoland.nl","lokaal","economie",34.4448220330191
+"850","Almere","omroepflevoland.nl","lokaal","kunst",31.874628585478
+"851","Almere","omroepflevoland.nl","lokaal","minderheden",25.8360395419457
+"852","Almere","omroepflevoland.nl","lokaal","natuur",45.4211585777964
+"853","Almere","omroepflevoland.nl","lokaal","onderwijs",16.8700271213191
+"854","Almere","omroepflevoland.nl","lokaal","overig",172.119645377152
+"855","Almere","omroepflevoland.nl","lokaal","uitgaan",22.5900990347915
+"856","Almere","omroepflevoland.nl","lokaal","verkeer",63.2506442770621
+"857","Almere","omroepflevoland.nl","lokaal","wonen",26.7090282866099
+"858","Almere","omroepflevoland.nl","lokaal","zorg",14.855533915039
+"859","Nijmegen","brugnijmegen.nl","lokaal","bestuur",20.8678691998315
+"860","Nijmegen","brugnijmegen.nl","lokaal","campagne",20.1746530995659
+"861","Nijmegen","brugnijmegen.nl","lokaal","criminaliteit",10.5960604575123
+"862","Nijmegen","brugnijmegen.nl","lokaal","economie",17.2051877345075
+"863","Nijmegen","brugnijmegen.nl","lokaal","kunst",75.8315485582112
+"864","Nijmegen","brugnijmegen.nl","lokaal","minderheden",0.651969872834539
+"865","Nijmegen","brugnijmegen.nl","lokaal","natuur",19.8135635852543
+"866","Nijmegen","brugnijmegen.nl","lokaal","onderwijs",22.6271643337076
+"867","Nijmegen","brugnijmegen.nl","lokaal","overig",77.3993777235077
+"868","Nijmegen","brugnijmegen.nl","lokaal","uitgaan",24.4217590362745
+"869","Nijmegen","brugnijmegen.nl","lokaal","verkeer",18.0061715265815
+"870","Nijmegen","brugnijmegen.nl","lokaal","wonen",21.6214198220368
+"871","Nijmegen","brugnijmegen.nl","lokaal","zorg",17.6847843842964
+"872","Nijmegen","De Gelderlander","regionaal","bestuur",608.58282517361
+"873","Nijmegen","De Gelderlander","regionaal","campagne",479.990086542556
+"874","Nijmegen","De Gelderlander","regionaal","criminaliteit",313.026975971709
+"875","Nijmegen","De Gelderlander","regionaal","economie",293.968641414631
+"876","Nijmegen","De Gelderlander","regionaal","kunst",598.750025247055
+"877","Nijmegen","De Gelderlander","regionaal","minderheden",25.7195101974696
+"878","Nijmegen","De Gelderlander","regionaal","natuur",262.785481915067
+"879","Nijmegen","De Gelderlander","regionaal","onderwijs",118.320768928799
+"880","Nijmegen","De Gelderlander","regionaal","overig",1063.82719347394
+"881","Nijmegen","De Gelderlander","regionaal","uitgaan",280.676125205924
+"882","Nijmegen","De Gelderlander","regionaal","verkeer",288.812554604289
+"883","Nijmegen","De Gelderlander","regionaal","wonen",297.671159420079
+"884","Nijmegen","De Gelderlander","regionaal","zorg",168.982516373887
+"885","Nijmegen","gelderlander.nl","lokaal","bestuur",175.445584802592
+"886","Nijmegen","gelderlander.nl","lokaal","campagne",166.24674543197
+"887","Nijmegen","gelderlander.nl","lokaal","criminaliteit",132.547204485986
+"888","Nijmegen","gelderlander.nl","lokaal","economie",81.3046306269094
+"889","Nijmegen","gelderlander.nl","lokaal","kunst",130.432518183023
+"890","Nijmegen","gelderlander.nl","lokaal","minderheden",13.6062162653732
+"891","Nijmegen","gelderlander.nl","lokaal","natuur",65.5364851119831
+"892","Nijmegen","gelderlander.nl","lokaal","onderwijs",23.4017278907254
+"893","Nijmegen","gelderlander.nl","lokaal","overig",372.020395576805
+"894","Nijmegen","gelderlander.nl","lokaal","uitgaan",43.7123017176702
+"895","Nijmegen","gelderlander.nl","lokaal","verkeer",92.9452007252357
+"896","Nijmegen","gelderlander.nl","lokaal","wonen",48.2368060531004
+"897","Nijmegen","gelderlander.nl","lokaal","zorg",51.4231853655999
+"898","Nijmegen","indebuurtnijmegen.nl","lokaal","bestuur",6.46829852383099
+"899","Nijmegen","indebuurtnijmegen.nl","lokaal","campagne",6.1645148157852
+"900","Nijmegen","indebuurtnijmegen.nl","lokaal","criminaliteit",10.5334324891773
+"901","Nijmegen","indebuurtnijmegen.nl","lokaal","economie",17.7154971920555
+"902","Nijmegen","indebuurtnijmegen.nl","lokaal","kunst",62.0246486044439
+"903","Nijmegen","indebuurtnijmegen.nl","lokaal","minderheden",0.255382520544608
+"904","Nijmegen","indebuurtnijmegen.nl","lokaal","natuur",12.6347751517664
+"905","Nijmegen","indebuurtnijmegen.nl","lokaal","onderwijs",3.72793475413776
+"906","Nijmegen","indebuurtnijmegen.nl","lokaal","overig",55.4532567771668
+"907","Nijmegen","indebuurtnijmegen.nl","lokaal","uitgaan",10.7328331940527
+"908","Nijmegen","indebuurtnijmegen.nl","lokaal","verkeer",11.9863460586488
+"909","Nijmegen","indebuurtnijmegen.nl","lokaal","wonen",17.9783683570369
+"910","Nijmegen","indebuurtnijmegen.nl","lokaal","zorg",2.73293214253452
+"911","Nijmegen","nieuwsuitnijmegen.nl","lokaal","bestuur",10.0887494605448
+"912","Nijmegen","nieuwsuitnijmegen.nl","lokaal","campagne",11.2182372953401
+"913","Nijmegen","nieuwsuitnijmegen.nl","lokaal","criminaliteit",43.7507041427781
+"914","Nijmegen","nieuwsuitnijmegen.nl","lokaal","economie",11.9541065515699
+"915","Nijmegen","nieuwsuitnijmegen.nl","lokaal","kunst",27.0352881005101
+"916","Nijmegen","nieuwsuitnijmegen.nl","lokaal","minderheden",0.227922920790172
+"917","Nijmegen","nieuwsuitnijmegen.nl","lokaal","natuur",8.45981579485247
+"918","Nijmegen","nieuwsuitnijmegen.nl","lokaal","onderwijs",6.0446254195484
+"919","Nijmegen","nieuwsuitnijmegen.nl","lokaal","overig",26.253243893894
+"920","Nijmegen","nieuwsuitnijmegen.nl","lokaal","uitgaan",9.27027987601715
+"921","Nijmegen","nieuwsuitnijmegen.nl","lokaal","verkeer",20.8114196838705
+"922","Nijmegen","nieuwsuitnijmegen.nl","lokaal","wonen",8.11753631873097
+"923","Nijmegen","nieuwsuitnijmegen.nl","lokaal","zorg",6.0077710770728
+"924","Nijmegen","omroepgelderland.nl","lokaal","bestuur",55.5262562878208
+"925","Nijmegen","omroepgelderland.nl","lokaal","campagne",79.8075697845803
+"926","Nijmegen","omroepgelderland.nl","lokaal","criminaliteit",80.6345610608427
+"927","Nijmegen","omroepgelderland.nl","lokaal","economie",29.5937027508735
+"928","Nijmegen","omroepgelderland.nl","lokaal","kunst",49.7612336149091
+"929","Nijmegen","omroepgelderland.nl","lokaal","minderheden",3.86782439769377
+"930","Nijmegen","omroepgelderland.nl","lokaal","natuur",31.3018097560933
+"931","Nijmegen","omroepgelderland.nl","lokaal","onderwijs",10.3367265391897
+"932","Nijmegen","omroepgelderland.nl","lokaal","overig",115.776981843015
+"933","Nijmegen","omroepgelderland.nl","lokaal","uitgaan",17.7558997039433
+"934","Nijmegen","omroepgelderland.nl","lokaal","verkeer",65.630042198496
+"935","Nijmegen","omroepgelderland.nl","lokaal","wonen",22.0820468592757
+"936","Nijmegen","omroepgelderland.nl","lokaal","zorg",18.883006290351
+"937","Nijmegen","rn7.nl","lokaal","bestuur",28.6473184402622
+"938","Nijmegen","rn7.nl","lokaal","campagne",29.7656037765403
+"939","Nijmegen","rn7.nl","lokaal","criminaliteit",44.1925339709905
+"940","Nijmegen","rn7.nl","lokaal","economie",20.2419883321495
+"941","Nijmegen","rn7.nl","lokaal","kunst",43.3737153438128
+"942","Nijmegen","rn7.nl","lokaal","minderheden",1.00683472485639
+"943","Nijmegen","rn7.nl","lokaal","natuur",20.0392984927295
+"944","Nijmegen","rn7.nl","lokaal","onderwijs",5.53223200727867
+"945","Nijmegen","rn7.nl","lokaal","overig",61.3739114285379
+"946","Nijmegen","rn7.nl","lokaal","uitgaan",12.5587693852365
+"947","Nijmegen","rn7.nl","lokaal","verkeer",41.988537057651
+"948","Nijmegen","rn7.nl","lokaal","wonen",20.7632912026083
+"949","Nijmegen","rn7.nl","lokaal","zorg",11.8218701215824
