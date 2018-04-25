@@ -9,6 +9,9 @@ Dit zijn ruwe gegevens die speciaal voor deze middag zijn klaargezet.
 We vinden het belangrijk (en leuk!) dat veel mensen met de bestanden kunnen werken.
 Echter, we willen niet dat er conclusies worden getrokken uit een onjuist gebruik van de bestanden of omdat er door slordigheden van onze kant fouten in de gegevens zitten.
 We zouden het daarom op prijs stellen als mensen die de gegevens willen gebruiken voor een publicatie even voorafgaand ons zeggen wat er precies gedaan is, dan kunnen wij even checken of dat correct lijkt. 
+Dit kan door een (publiek) [issue aan te maken](https://github.com/nruigrok/regiovechtterug/issues/new?labels=Analyse) of door [ons even te mailen](mailto:nelruigrok@nieuwsmonitor.org). 
+
+Via de issues kan je ook [inhoudelijke vragen over de gegevens stellen](https://github.com/nruigrok/regiovechtterug/issues/new?labels=Vraag). 
 
 ## Beschrijving van de gegevensbestanden:
 
